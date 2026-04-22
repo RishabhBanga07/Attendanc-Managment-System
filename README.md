@@ -28,10 +28,10 @@ This project is built using core Java and demonstrates strong use of Object-Orie
 ## 📂 Project Structure
 
 Attendance-Management-System/
-│── Main.java
-│── Student.java
-│── AttendanceManager.java
-│── data.txt (optional)
+│── Main.java<br>
+│── Student.java<br>
+│── AttendanceManager.java<br>
+│── data.txt (optional)<br>
 │── README.md
 
 
